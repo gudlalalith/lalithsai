@@ -1,0 +1,31 @@
+*{
+   margin: 1vw;
+   padding: .3vh;
+   background-color: aqua;
+}
+.r{
+    font-weight: bolder;
+    font-size: 0.5vw;
+}
+.k{
+    font-weight: bolder;
+    font-style: oblique;
+}
+.h{
+    margin-left: 40vw;
+}
+.n{
+    height: 20vh;
+    width: 20vh;
+    margin-left: 70vw;
+    border-radius: 4vh;
+}
+.s{
+    margin-left: 43vw;
+    font-size: 1.5vw;
+    font-weight: bold;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.u{
+    width: 65vw;
+}
